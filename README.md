@@ -2,11 +2,11 @@
 A simple course registration system coded in PHP.
 
 Quick start
-1) Copy folder 'ocrws_php_week5' into XAMPP htdocs, e.g. C:\xampp\htdocs\ocrws_php_week5
+1) Copy folder 'ocrws' into XAMPP htdocs, e.g. C:\xampp\htdocs\ocrws
 2) Start Apache + MySQL in the XAMPP Control Panel
-3) Open phpMyAdmin and import: sql/ocrws_week5_schema.sql
-4) Update includes/config.php if your MySQL credentials differ
-5) Browse to: http://localhost/ocrws_php_week5/index.php
+3) Open phpMyAdmin and import: sql/ocrws.sql
+4) Update includes/config.php if your MySQL credentials are different
+5) Browse to: http://localhost/ocrws/index.php
 
 Seeded logins
 - Administrator: admin / Admin123!
