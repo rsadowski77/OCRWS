@@ -10,7 +10,7 @@ Quick start
 
 Seeded logins
 - Administrator: admin / Admin123!
-- Instructor: instructor1 / Instructor123!
+- Instructor: instructor / Instructor123!
 
 Role summary
 - Students: self-register, browse offerings, enroll, join waitlists, claim seats, manage their schedules
