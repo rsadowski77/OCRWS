@@ -22,5 +22,4 @@ Suggested test flow
 2) Enroll students until an offering is full
 3) Enroll one more student to create a waitlist entry
 4) Drop a student from the course
-5) Log in as the first waitlisted student and use Claim Seat
-6) Log in as admin and use waitlist_admin.php?offering=<id> to override-enroll a waitlisted student
+5) Log in as admin and use the Offering Management page to override the course capacity to manually add a student to a full course
